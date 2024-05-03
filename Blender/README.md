@@ -26,13 +26,13 @@
 
 Тогда появилось желание поработать не столько с формой, сколько с текстурой и освещением:
 
-![Screenshot 5](Education/Level 1.png "Форма бублика")
-![Screenshot 6](Education/Level 2.png "Готовый бублик")
-![Screenshot 7](Education/Level 3.1.png "Кружка")
-![Screenshot 8](Education/Level 3.2.png "Кружка с каплями")
-![Screenshot 9](Education/Level 4.1.png "Бублик с кружкой")
-![Screenshot 10](Education/Level 4.2.png "Готовое окружение 1")
-![Screenshot 11](Education/Level 4.3.png "Готовое окружение 2")
+![Screenshot 5](Education/Level_1.png "Форма бублика")
+![Screenshot 6](Education/Level_2.png "Готовый бублик")
+![Screenshot 7](Education/Level_3.1.png "Кружка")
+![Screenshot 8](Education/Level_3.2.png "Кружка с каплями")
+![Screenshot 9](Education/Level_4.1.png "Бублик с кружкой")
+![Screenshot 10](Education/Level_4.2.png "Готовое окружение 1")
+![Screenshot 11](Education/Level_4.3.png "Готовое окружение 2")
 
 В результате поработал с текстурами, освещением, камерой (в конце реализовано вращение)
 
